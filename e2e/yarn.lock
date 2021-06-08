@@ -1447,10 +1447,10 @@
   dependencies:
     "@sinonjs/commons" "^1.7.0"
 
-"@slack/types@2.0.0":
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/@slack/types/-/types-2.0.0.tgz#7b938ab576cd1d6c9ff9ad67a96f8058d101af10"
-  integrity sha512-Nu4jWC39mDY5egAX4oElwOypdu8Cx9tmR7bo3ghaHYaC7mkKM1+b+soanW5s2ssu4yOLxMdFExMh6wlR34B6CA==
+"@slack/types@2.1.0":
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/@slack/types/-/types-2.1.0.tgz#3b8d9fc600938ac3b55c39d93d7d4be74b380212"
+  integrity sha512-6FSyuKt3dqmXpKxu5cH7vCm2Ekj7WpyaYyznTQ/SpKZKkdLvpkcp0/HbPFTtDI9O1wHGeaPgs6h3AtZmRRDXjA==
 
 "@slack/types@^1.0.0":
   version "1.0.0"
