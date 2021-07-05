@@ -3648,12 +3648,12 @@ cypress-cucumber-preprocessor@4.1.0:
     minimist "^1.2.5"
     through "^2.3.8"
 
-cypress-failed-log@2.9.1:
-  version "2.9.1"
-  resolved "https://registry.yarnpkg.com/cypress-failed-log/-/cypress-failed-log-2.9.1.tgz#8a5f0779ee58d40dbd93047d47938da14300fd0e"
-  integrity sha512-mQABpDZNaUeHl7Ex82cfp5PgDVRiBRU+Hy3/nMZOiTlJeNGDd2m+3sGRGOtl8irObhO9mA0n6alOjzhgpNVUbg==
+cypress-failed-log@2.9.2:
+  version "2.9.2"
+  resolved "https://registry.yarnpkg.com/cypress-failed-log/-/cypress-failed-log-2.9.2.tgz#136727f1a9317a44981abb144d5775963c4d384c"
+  integrity sha512-Gu06nXsQBxDv3bTRQG05753Z9/DHiOSVW4IUouoOSZVL8DfBdxRkbCgKJjfkZZJRRcewn6K7GOYp2qQD+AHCuw==
   dependencies:
-    debug "4.3.1"
+    debug "4.3.2"
     logdown "3.3.1"
 
 cypress-multi-reporters@1.5.0:
